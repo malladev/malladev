@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Welcome to my profile!<br> I am passionate about creating exceptional digital experiences by combining my skills in web and mobile application development with a UX/UI design-centric approach.<br>
 
-💻 Application Development: With a deep expertise in application development, I have a solid experience in creating innovative and efficient solutions. Whether using modern front-end technologies such as React and Angular Js, or designing robust back-ends with Node.js, I constantly strive to bring added value to every project.<br>- 🌱 I’m currently learning React, Next Js, Nest Js and React Native<br>- 💼 I'm open to freelancing projects.<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
+💻 Application Development: With a deep expertise in application development, I have a solid experience in creating innovative and efficient solutions. Whether using modern front-end technologies such as React and Angular Js, or designing robust back-ends with Node.js, I constantly strive to bring added value to every project.<br>- 🌱 I’m currently learning React, Next Js, Nest Js and React Native<br>- 💼 I'm open to freelancing projects.<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.<br>
 
 
 ## 🌐 Socials:
